@@ -1,135 +1,135 @@
 [[WrapIt]]
 arch = "aarch64"
-git-tree-sha1 = "daeb65431b51d0a9d5c424565acdc674d1db7d80"
+git-tree-sha1 = "13ea9c50e34ddc15008aabf322d0d979a72d8364"
 os = "macos"
 
     [[WrapIt.download]]
-    sha256 = "1ec76281c354f49707fb2f5ac4cb17a486b3fccac83b706b4712bde4bc5aeba6"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "e1d7fa1af0c2e64c01fcc224191d66f72423c0fad464cffb74ddecea27e46692"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.aarch64-apple-darwin.tar.gz"
 [[WrapIt]]
 arch = "aarch64"
-git-tree-sha1 = "c2c775d3ace1d0aacd5375665473b4e7803eed0e"
+git-tree-sha1 = "91039c4cff854f4e6b69549e837b2070da4b9c62"
 libc = "glibc"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "aa28c578eb39713e4358839d0e50266325c66be79085e3bc0397f6108a12973d"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "b1076a05d5d09389c714e3cccd8f9d31a1a1f18e7d247ba2db953745578ec455"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.aarch64-linux-gnu.tar.gz"
 [[WrapIt]]
 arch = "aarch64"
-git-tree-sha1 = "62d5b20448fcebcedea2ea107efc3778871ec8e8"
+git-tree-sha1 = "21dc43c3d034b01e10626c9c14a7adc505a623b6"
 libc = "musl"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "661e4c840022412d49f4b448b64fa0be5bb4aa8fc5f34b762635ee5ca20b8185"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.aarch64-linux-musl.tar.gz"
+    sha256 = "57cf6074475098bb61ce9b0e7f616b1b5f56f8d470628b749225b1903e9f9e3b"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.aarch64-linux-musl.tar.gz"
 [[WrapIt]]
 arch = "aarch64"
-git-tree-sha1 = "6f0cb5fc0b1bdc20cc561e57ea304045f3c87388"
+git-tree-sha1 = "3e459a80c179e20876430f1dbc337f549c25cedd"
 os = "freebsd"
 
     [[WrapIt.download]]
-    sha256 = "08881c01f5f1ffbbebadc7eb0daa3d0f471fffdd839e6b8bd048541876612f94"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "7eddfe3ed6216d4536c12b75ffb0de9136fcfa431f3c633ddf4f7b700274e428"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.aarch64-unknown-freebsd.tar.gz"
 [[WrapIt]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "def2b1e2dd6218a3f4dd626ada28a0ccf87b568e"
+git-tree-sha1 = "1b575c3ca5a2b881abbae65a63994a1aa81d3656"
 libc = "glibc"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "a35d99c1b2a9e173de55e774e2740a1cbfadb03807deeafb5b36870840566577"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "8e56730ec150cc09216d9c8e1021a82b5374f5c9dede5b87b56955ca2c2edc47"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.armv6l-linux-gnueabihf.tar.gz"
 [[WrapIt]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "99fa1bb0fad715580abf1e393194e4f1265a71ff"
+git-tree-sha1 = "197523233e76a502818ab168a5b99519906150d8"
 libc = "musl"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "85d53bab0245655e2b8465223cf5d55c9b46abe8c50cb6e9217d9db136e8fc47"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "979b740071d216bce565654670686ddbdd17258c182def6a7480974a7ec3dd0a"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.armv6l-linux-musleabihf.tar.gz"
 [[WrapIt]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "36f8046bc17e8cf2a65b09b72264798c6f03de7c"
+git-tree-sha1 = "655ded2447fc9f32a43d24a691f523aef5cb1f04"
 libc = "glibc"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "7abafc174f5606da3b3c7a7a8c450c5f75c1eff42400af51869ec5491e020bd3"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "9b522242a38c5d02b873993ebd05019af9a98482592a135159ce9efa18318309"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.armv7l-linux-gnueabihf.tar.gz"
 [[WrapIt]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8fd4c6299a23ef2d9c2309a88fb61f1d6ca81003"
+git-tree-sha1 = "9abc60c84e255d744dee5543760ab6f4c4ebe8c2"
 libc = "musl"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "e29e7231329037b13c64ab4696efe9ea988086854a64fb68120c16ee96ff6d0b"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "93c984d60a3e2dc3b220a102b4a2e6427b81fb6bc9285f222dd93650fa2aa96c"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.armv7l-linux-musleabihf.tar.gz"
 [[WrapIt]]
 arch = "i686"
-git-tree-sha1 = "9c11c7d0dd429fdf441be03bc6d44bc7e5b9eb6e"
+git-tree-sha1 = "811cb6750e5e899e6b0d9c88d9abc72b40447375"
 libc = "glibc"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "6f636120000cdee6502b4afe9f30a660a9ff2832397a259f3ed43ac9b2d492e7"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.i686-linux-gnu.tar.gz"
+    sha256 = "9498bed5ac700fcda7a073db35e4d4130dc4d16de77b585cbed2c652ccd5219e"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.i686-linux-gnu.tar.gz"
 [[WrapIt]]
 arch = "powerpc64le"
-git-tree-sha1 = "5b53ae8ae6b7df45fd6a5043fcf7d05c27dc5f73"
+git-tree-sha1 = "b838a3ff968e4c680ec61fcf00d714b29a88b9fd"
 libc = "glibc"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "49bc5e3f844c22a25b449763160df448d36e570431486de66befc003550d783b"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "9747f4ef05a2ffadbbb3e40fc0233b478e87876ce59602f5c9d81647667272e3"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.powerpc64le-linux-gnu.tar.gz"
 [[WrapIt]]
 arch = "riscv64"
-git-tree-sha1 = "8a32b04887917656779b6213de917bc8abf6965b"
+git-tree-sha1 = "6c76f3ecbb2db7934006a071103a866f82c574d5"
 libc = "glibc"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "375799daeef0ed9ea276724af078a2076572e699bf8352faf757902beb360bd9"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "c0ecbf84eddb08bbdd12a11df75cfead0152e7564418eb229360bb9a5f3817fe"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.riscv64-linux-gnu.tar.gz"
 [[WrapIt]]
 arch = "x86_64"
-git-tree-sha1 = "bbde3c8cabb959365613c4c0fbbccbdb93c8e96f"
+git-tree-sha1 = "5a68ddcc315844a4e29a4b6c4e0be05637ff2fad"
 os = "macos"
 
     [[WrapIt.download]]
-    sha256 = "5a27a7bcc91a48610214828687bed2aef89b123073389970710545a8d184b35e"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "5f86344e549171e3f8a18fefb6c7407c60b528eeb70631547cd0e211e38a9771"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.x86_64-apple-darwin.tar.gz"
 [[WrapIt]]
 arch = "x86_64"
-git-tree-sha1 = "6893eb845b0c93ba0e86a6c5d4a9a4b7bb12a912"
+git-tree-sha1 = "0de039e9f044f88f992f83beedbb3cd32b9328b3"
 libc = "glibc"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "b632f35d4cb58156795c563955862e7da5d7e1f8b2bcc5a5b43aa6796ce21e76"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "65f7acdf0020b974406a13342e06336f11d3b912b2d4114829d82b5da378664d"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.x86_64-linux-gnu.tar.gz"
 [[WrapIt]]
 arch = "x86_64"
-git-tree-sha1 = "6622d9982b329020be8b79fd96af027de7bf2ac4"
+git-tree-sha1 = "3ebaa5a8e377b2eb823fb47579d3805fa37697ac"
 libc = "musl"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "e88dfae5407fac8c568cb22f7c23e475dab0a23d842cc24b17824e7535c5987c"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.x86_64-linux-musl.tar.gz"
+    sha256 = "c70500ff08d5cfc996ba29d05d65a609a3d52ad6086f8883298c3e04a48dbcc7"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.x86_64-linux-musl.tar.gz"
 [[WrapIt]]
 arch = "x86_64"
-git-tree-sha1 = "53bf41f97185de4537db0e40240ca3b6cdbff7b9"
+git-tree-sha1 = "2aff33cae0af2e45432cc34c647ae6d4af60488f"
 os = "freebsd"
 
     [[WrapIt.download]]
-    sha256 = "47ff8acc9a0c5265284033c76093040810b130d369e1b68b9cc8c4a00325747a"
-    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.5.0+0/WrapIt.v1.5.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "3743ed846b7c0d05ebfc7e552b190c55c35c6af5f56052c24974dead2b775fff"
+    url = "https://github.com/JuliaBinaryWrappers/WrapIt_jll.jl/releases/download/WrapIt-v1.7.0+0/WrapIt.v1.7.0.x86_64-unknown-freebsd.tar.gz"
